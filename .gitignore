@@ -1,0 +1,10 @@
+# Compiled binaries
+/fcut
+/fcut.exe
+
+# Split part files
+*.part
+
+# Test / build artifacts
+*.out
+*.test
